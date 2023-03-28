@@ -8,13 +8,9 @@ PyTerrier is a declarative platform for information retrieval experiemnts in Pyt
 1. Check `pip` already installed in your system or not?
 2. If not, then `sudo apt install python3-pip`
 3. If yes, then `pip install python-terrier`
-4. 
-5. You may need to set JAVA_HOME environment variable if Pyjnius cannot find your Java installation.
-
-### macOS
-
-1. You need to hava Java installed. Pyjnius/PyTerrier will pick up the location automatically.
-2. `pip install python-terrier`
+4. If it there is any error, then have to check `g++ --version`
+5. 
+6. You may need to set JAVA_HOME environment variable if Pyjnius cannot find your Java installation.
 
 # Indexing
 
