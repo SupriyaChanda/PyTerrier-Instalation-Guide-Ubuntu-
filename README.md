@@ -1,11 +1,6 @@
-![Python package](https://github.com/terrier-org/pyterrier/workflows/Python%20package/badge.svg) 
-[![PyPI version](https://badge.fury.io/py/python-terrier.svg)](https://badge.fury.io/py/python-terrier)
-[![Documentation Status](https://readthedocs.org/projects/pyterrier/badge/?version=latest)](https://pyterrier.readthedocs.io/en/latest/)
-
-
 # PyTerrier
 
-A Python API for Terrier - v.0.9
+PyTerrier is a declarative platform for information retrieval experiemnts in Python. It uses the Java-based [Terrier information retrieval platform](http://terrier.org/) internally to support indexing and retrieval operations. It is a Python API for Terrier - v.0.9
 
 # Installation
 
