@@ -4,11 +4,12 @@ PyTerrier is a declarative platform for information retrieval experiemnts in Pyt
 
 # Installation
 
-The easiest way to get started with PyTerrier is to use one of our Colab notebooks - look for the ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) badges below.
-
-### Linux or Google Colab or Windows
-1. `pip install python-terrier`
-2. You may need to set JAVA_HOME environment variable if Pyjnius cannot find your Java installation.
+### Linux
+1. Check `pip` already installed in your system or not?
+2. If not, then `sudo apt install python3-pip`
+3. If yes, then `pip install python-terrier`
+4. 
+5. You may need to set JAVA_HOME environment variable if Pyjnius cannot find your Java installation.
 
 ### macOS
 
